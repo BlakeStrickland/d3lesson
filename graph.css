@@ -15,3 +15,14 @@ path {
 .tick {
   stroke: black;
 }
+ circle{
+   fill: aquamarine;
+   stroke: black;
+   stroke-width: 2px
+ }
+
+line {
+  stroke:red;
+  stroke-width: 5px;
+
+}
